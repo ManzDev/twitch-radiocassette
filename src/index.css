@@ -32,3 +32,9 @@
 body {
   background: #224;
 }
+
+.container {
+  display: grid;
+  place-items: center;
+  height: 80vh;
+}
